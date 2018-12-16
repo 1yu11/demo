@@ -96,5 +96,5 @@ public class MqttActivity extends AppCompatActivity {
     private void makeToast(String str) {
         Toast.makeText(MqttActivity.this, str, Toast.LENGTH_LONG).show();
     }
-
+//具体可以参考代码：https://github.com/luooyii?tab=repositories
 }
